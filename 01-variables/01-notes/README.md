@@ -1,1 +1,1 @@
-C++ Variables Notes
+C++ Variable Notes
