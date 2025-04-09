@@ -18,10 +18,3 @@ Data types define the **type of data** a variable can store in C++. It helps the
 | Boolean    | `bool`   | `bool passed = true;` | 1 byte     |
 
 ---
-
-## 🔸 Type Modifiers
-
-- `short`, `long`, `signed`, `unsigned`
-```cpp
-unsigned int num = 100;
-long long bigNumber = 999999999;
